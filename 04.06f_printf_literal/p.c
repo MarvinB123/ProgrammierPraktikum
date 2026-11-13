@@ -3,7 +3,7 @@
 int main(void)
 {
 
-
-
+    printf("a: %d\n", 0xffffffff);
+    printf("a: %u\n", 0xffffffff);
 
 }
